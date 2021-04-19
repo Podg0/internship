@@ -1,1 +1,1 @@
-Readme file from directory
+Readme file for internship.
